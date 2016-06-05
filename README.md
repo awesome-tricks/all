@@ -16,3 +16,12 @@
 ## CSS
 
 - [CSS tricks](https://css-tricks.com/)
+
+## Julia
+
+- [Simple Tricks in Julia](http://blog.translusion.com/posts/julia-tricks/)
+
+
+## Erlang
+
+- [Erlang Hints, Tips and Tricks](https://erlanghints.wordpress.com/)
