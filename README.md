@@ -5,6 +5,9 @@
 
 ## Javascript
 
+- [45 Useful JavaScript Tips, Tricks and Best Practices](http://modernweb.com/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
+- [21 JavaScript Tips and Tricks for JavaScript Developers](http://viralpatel.net/blogs/javascript-tips-tricks/)
+
 ## Swift
 
 - [Little bites of Cocoa](https://littlebitesofcocoa.com/164-swift-tricks)
