@@ -1,7 +1,7 @@
 # Awesome Tricks
 
 ## Ruby
-- [Ruby Tricks](github.com/franzejr/best-ruby)
+- [Ruby Tricks](https://github.com/franzejr/best-ruby)
 
 ## Javascript
 
